@@ -3,7 +3,7 @@ package cameluser88.helloworld;
 import org.apache.camel.main.Main;
 
 /**
- * A Camel Application
+ * A Camel Application 
  */
 public class MainApp {
 
